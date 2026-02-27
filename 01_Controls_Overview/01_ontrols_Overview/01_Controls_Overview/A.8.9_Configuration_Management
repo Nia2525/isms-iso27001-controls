@@ -1,0 +1,59 @@
+# A.8.9 Configuration Management
+
+
+## Objective
+
+Ensure systems are securely configured, maintained, and changed in a controlled manner.
+
+
+## Implementation Guidance
+
+•	Define secure baseline configurations (CIS Benchmarks, vendor best practices).
+•	Implement version control (Git, Ansible, Puppet).
+•	Enforce change management with approvals and rollback plans.
+•	Conduct periodic configuration audits.
+•	Monitor deviations automatically.
+
+
+## Audit Criteria
+
+•	Are baselines documented and approved?
+•	Are changes logged, reviewed, and approved?
+•	Are configuration tools used consistently?
+•	Are deviations detected and corrected?
+•	Are configuration reviews performed regularly?
+
+
+## Evidence Examples
+
+•	Baseline documents
+•	Change tickets
+•	Git commit logs
+•	Audit reports
+•	Compliance dashboards
+
+
+## Typical Findings
+
+•	No defined baselines
+•	Unauthorized changes
+•	Missing rollback plans
+•	Manual configuration without version control
+
+
+## Maturity Indicators
+
+•	Level 1: Manual configuration
+•	Level 2: Basic baselines
+•	Level 3: Formal change management
+•	Level 4: Automated enforcement
+•	Level 5: Continuous compliance monitoring
+
+
+## Related Controls
+
+•	A.5.32 Change Management
+•	A.8.8 Vulnerability Management
+
+
+**Benefits:** Reduces the risk of misconfigurations that could lead to security breaches.
