@@ -1,12 +1,18 @@
-# isms-iso27001-controls
+# ISMS Compliance Project – ISO/IEC 27001:2022 (Lab Portfolio)
 
-Audit-oriented ISO/IEC 27001:2022 controls project (A.8.6–A.8.10): implementation guidance, audit criteria, evidence, and maturity assessment.
+This project provides an audit‑oriented interpretation of selected ISO/IEC 27001:2022 technological controls (A.8.6–A.8.10). It demonstrates how these controls are implemented, assessed, and validated within an Information Security Management System (ISMS).
 
-## ISMS Compliance Project – ISO/IEC 27001:2022 (Lab Portfolio)
+## Objectives
 
-This project provides an audit-oriented interpretation of selected ISO/IEC 27001:2022 technological controls (A.8.6–A.8.10). It demonstrates how these controls are implemented, assessed, and validated within an Information Security Management System (ISMS).
+This project demonstrates the ability to:
 
-### Scope of Controls
+- interpret ISO 27001:2022 controls  
+- translate requirements into practical implementation steps  
+- define audit criteria and evidence expectations  
+- assess maturity levels  
+- apply risk‑based thinking in ISMS environments  
+
+## Included Controls
 
 - A.8.6 Capacity Management  
 - A.8.7 Protection Against Malware  
@@ -16,12 +22,20 @@ This project provides an audit-oriented interpretation of selected ISO/IEC 27001
 
 Each control includes:
 
-- Objective  
-- Implementation Guidance  
-- Audit Criteria  
-- Evidence Examples  
-- Typical Findings  
-- Maturity Indicators  
-- Related Controls  
+- Control objective  
+- Implementation guidance  
+- Audit criteria  
+- Evidence examples  
+- Typical findings  
+- Maturity indicators  
+- Related controls  
 
-This repository is designed as a lab portfolio to showcase ISMS thinking, audit readiness, and governance-oriented documentation.
+## Purpose
+
+This project was created to provide a structured, audit‑oriented interpretation of selected ISO/IEC 27001:2022 technological controls. It reflects my ability to translate ISO requirements into actionable guidance, define audit criteria, identify evidence, and evaluate maturity — skills essential for ISMS consulting and security governance roles.
+
+## Author
+
+**Kurnia Indah Wijayanti**  
+Junior Cybersecurity Consultant specializing in ISMS, governance, and risk analysis.  
+Experience includes ISO 27001 implementation, gap assessments, audit documentation, and SOC operations.
